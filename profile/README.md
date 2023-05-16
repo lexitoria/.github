@@ -17,7 +17,7 @@ History of programming languages
 ### History
 - [hopl.info](https://hopl.info)
 - [hopl.org](https://hopl.org)
-- [PLDB](https://pldb.com)
+- PLDB | [Website](https://pldb.com) | [GitHub](https://github.com/breck7/pldb)
 
 ### Tasks
 - [Rosetta Code](http://www.rosettacode.org)
