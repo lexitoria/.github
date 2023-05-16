@@ -7,15 +7,11 @@ History of programming languages
 - [Neo4j](https://console.neo4j.io/#databases/fadc0331/detail)
 1wdgn9GM9FmXzs7oLq7asnJ0Y9WqyBW2PtzAN8Ut9NQ
 
-```
-C + Simula —> C++ (not pure superset)
-C + Smalltalk —> Objective-C (pure superset)
-
-Objective-C++ ??
-```
-
 ## Videos
 - [Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
+
+## Podcasts
+- ...
 
 ## Other Wesbites
 - [PLDB](https://github.pldb.com/index.html)
