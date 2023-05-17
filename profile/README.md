@@ -1,8 +1,5 @@
 # Lexitoria
-History of programming languages
-
-- [GitBook](https://app.gitbook.com/s/XlE5az1w3n3VdjJFVDOJ/)
-- [Notion Database](https://scrawny-slayer-df9.notion.site/Programming-Languages-c27954d7d7e54d01a9d3751eb58b1c3e)
+Dictionary of programming languages
 
 ## Videos
 - [Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
