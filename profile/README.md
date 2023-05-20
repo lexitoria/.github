@@ -12,6 +12,8 @@ Dictionary of programming languages
 - [hopl.info](https://hopl.info)
 - [hopl.org](https://hopl.org)
 - PLDB | [Website](https://pldb.com) | [GitHub](https://github.com/breck7/pldb)
+- [Computer Languages History](https://www.levenez.com/lang/) by Éric Lévénez
+- [The Programming Languages Genealogy Project](https://everything2.com/title/the+Programming+Languages+Genealogy+Project) on Everything2 by thbz
 
 ### Tasks
 - [Rosetta Code](http://www.rosettacode.org)
