@@ -13,7 +13,7 @@ Dictionary of programming languages
 - [hopl.org](https://hopl.org)
 - PLDB | [Website](https://pldb.com) | [GitHub](https://github.com/breck7/pldb)
 - [Computer Languages History](https://www.levenez.com/lang/) by Éric Lévénez
-- [The Programming Languages Genealogy Project](https://everything2.com/title/the+Programming+Languages+Genealogy+Project) on Everything2 by thbz
+- [The Programming Languages Genealogy Project](https://everything2.com/title/the+Programming+Languages+Genealogy+Project) on Everything2 by thbz. Every page about the langauge here has a bunch of cool facts and details from people back then. In general Everything2 seems like a cool project.
 
 ### Tasks
 - [Rosetta Code](http://www.rosettacode.org)
