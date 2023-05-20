@@ -16,6 +16,9 @@ Dictionary of programming languages
 - [The Programming Languages Genealogy Project](https://everything2.com/title/the+Programming+Languages+Genealogy+Project) on Everything2 by thbz. Every page about the langauge here has a bunch of cool facts and details from people back then. In general Everything2 seems like a cool project.
 - [The Language List](https://web.archive.org/web/20160506170543/http://people.ku.edu/~nkinners/LangList/Extras/langlist.htm) by Bill Kinnersley
 
+### Books
+- [History of programming languages](https://dl.acm.org/doi/book/10.1145/800025#issue-downloads) June 1978
+
 ### Tasks
 - [Rosetta Code](http://www.rosettacode.org)
 
