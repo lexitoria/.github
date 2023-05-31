@@ -1,4 +1,4 @@
-# Lexitoria
+# lexitoria
 Dictionary of programming languages
 
 ## Videos
